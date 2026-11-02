@@ -1,0 +1,23 @@
+/** Generated from the real photo files: pixel sizes so images never get cropped. */
+export const PHOTO_SIZES: Record<string, [number, number]> = {
+  "AYODHYA.jpg": [2000, 1500],
+  "CALL_SCREENSHOT.jpg": [923, 2000],
+  "CCD_DELHI_MEET.jpg": [2000, 1125],
+  "CHANDNI_CHOWK_SHOPPING.jpg": [1280, 960],
+  "ENGAGEMENT_CAKE.jpg": [1125, 2000],
+  "FIRST_HANDMADE_GIFT.jpg": [1125, 2000],
+  "FIRST_KISS.jpg": [2000, 1500],
+  "FIRST_SELFIE.jpg": [2000, 1125],
+  "LUCKNOW.jpg": [2000, 1125],
+  "NAPKIN_REAL.jpg": [1500, 2000],
+  "POST_ENGAGEMENT_TOGETHER.jpg": [1500, 2000],
+  "SHIVAM_S_BIRTHDAY.jpg": [2000, 1125],
+  "TODAY.jpg": [2000, 1500],
+  "TOWARDS_VAISHALI_SIGN.jpg": [1500, 2000],
+  "TURKEY_ANTALYA.jpg": [2000, 1500],
+  "TURKEY_ANTALYA_2.jpg": [2000, 1500],
+  "TURKEY_CAPPADOCIA.jpg": [2000, 1500],
+  "VAISHALI_FIRST_MEETING.jpg": [960, 1280],
+  "WEDDING.jpg": [2000, 1333],
+  "WEDDING_RAIN.jpg": [2000, 1333],
+};
